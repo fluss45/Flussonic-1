@@ -1,4 +1,11 @@
 http://flussonic.com/doc/installation
+#flussonic cracked offline 
+#skype kaul.thet
+
+#work unlimited servers and lifetime 
+#20.3
+#20.6
+#20.9
 
 # Installing Flussonic using Debian installation package (for Ubuntu 12.04 64bit and higher or Debian Wheezy 64 bit)
 

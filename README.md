@@ -1,3 +1,10 @@
+flussonic 20.11.1 crack with free blackfriday. 
+first 3 users who share it.
+
+#flussonic
+#free
+#20.11.1
+
 http://flussonic.com/doc/installation
 
 # Installing Flussonic using Debian installation package (for Ubuntu 12.04 64bit and higher or Debian Wheezy 64 bit)
